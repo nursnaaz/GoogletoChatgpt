@@ -1,0 +1,109 @@
+Bill Gates
+
+Article
+Talk
+Read
+View source
+View history
+
+Tools
+Appearance hide
+Text
+
+Small
+
+Standard
+
+Large
+Width
+
+Standard
+
+Wide
+This is a good article. Click here for more information.
+Page semi-protected
+From Wikipedia, the free encyclopedia
+This article is about the co-founder of Microsoft. For other people with the same name, see Bill Gates (disambiguation).
+Bill Gates
+Bill Gates in 2023
+Gates in 2023
+Born	William Henry Gates III
+October 28, 1955 (age 68)
+Seattle, Washington, U.S.
+Education	Harvard University (dropped out)
+Occupations	
+Businessmaninvestorphilanthropistcomputer programerwriter
+Years active	1972–present
+Known for	
+Pioneer of the personal computer revolution with Paul Allen
+Co-founding of Microsoft and Bill & Melinda Gates Foundation
+Title	
+See list
+Spouse	Melinda French
+​
+​(m. 1994; div. 2021)​
+Children	3
+Parents	
+Bill Gates Sr.
+Mary Maxwell
+Awards	
+Knight Commander of the Order of the British Empire (2005)
+Padma Bhushan (2015)
+Presidential Medal of Freedom (2016)
+Hilal-e-Pakistan (2022)
+Website	gatesnotes.com
+Signature
+William H. Gates III
+Bill Gates in 2023	This article is part of
+a series about
+Bill Gates
+Awards and honorsPhilanthropyPolitical positionsPublic imageResidence
+Companies
+Traf-O-DataMicrosoft (criticism)BENlabsCascade InvestmentTerraPowerGates Ventures
+Charitable organizations
+Bill & Melinda Gates FoundationMatch for AfricaThe Giving PledgeOER ProjectBreakthrough EnergyMission Innovation
+Writings
+"An Open Letter to Hobbyists"The Road AheadBusiness @ the Speed of ThoughtHow to Avoid a Climate DisasterHow to Prevent the Next Pandemic
+Related
+Bill Gates' flower flyCodex LeicesterLost on the Grand BanksHistory of MicrosoftTimeline of MicrosoftPaul Allen
+vte
+William Henry Gates III (born October 28, 1955) is an American businessman, investor, philanthropist, and writer best known for co-founding the software company Microsoft with his childhood friend Paul Allen. During his career at Microsoft, Gates held the positions of chairman, chief executive officer (CEO), president, and chief software architect, while also being its largest individual shareholder until May 2014.[a] He was a pioneer of the microcomputer revolution of the 1970s and 1980s.
+
+Gates was born and raised in Seattle, Washington. In 1975, he and Allen founded Microsoft in Albuquerque, New Mexico. Gates led the company as its chairman and chief executive officer until stepping down as CEO in January 2000, succeeded by Steve Ballmer, but he remained chairman of the board of directors and became chief software architect. During the late 1990s, he was criticized for his business tactics, which were considered anti-competitive. In June 2008, Gates transitioned into a part-time role at Microsoft and full-time work at the Bill & Melinda Gates Foundation, the private charitable foundation he and his then-wife Melinda had established in 2000. He stepped down as chairman of the Microsoft board in February 2014 and assumed the role of technology adviser to support newly appointed CEO Satya Nadella. In March 2020, Gates left his board positions at Microsoft and Berkshire Hathaway to focus on his philanthropic efforts on climate change, global health and development, and education.
+
+Since 1987, Gates has been included in the Forbes list of the world's top billionaires. From 1995 to 2017, he held the title of the wealthiest person in the world every year except in 2008 and from 2010 to 2013. In 1999, he became the first ever centibillionaire when his net worth briefly surpassed US$100 billion.
+
+Later in his career and since leaving day-to-day operations at Microsoft in 2008, Gates has pursued other business and philanthropic endeavors. He is the founder and chairman of several companies, including BEN, Cascade Investment, TerraPower, Gates Ventures, and Breakthrough Energy. He has donated sizable amounts of money to various charitable organizations and scientific research programs through the Bill & Melinda Gates Foundation, reported to be the world's largest private charity. Through the foundation, he led an early 21st century vaccination campaign that significantly contributed to the eradication of the wild poliovirus in Africa. In 2010, Gates and Warren Buffett founded The Giving Pledge, whereby they and other billionaires pledge to give at least half of their wealth towards philanthropy.
+
+Early life and education
+William Henry Gates III was born on October 28, 1955, in Seattle, Washington[3] as the only son of William H. Gates Sr.[b] (1925–2020) and his first wife, Mary Maxwell Gates (1929–1994).[4] His ancestry includes English, German, and Irish/Scots-Irish.[5] His father was a prominent lawyer, and his mother served on the board of directors of First Interstate BancSystem and United Way of America. Gates's maternal grandfather J. W. Maxwell was a national bank president. He also has an older sister Kristi (Kristianne) and a younger sister Libby. He is the fourth of his name in his family but is known as William Gates III or "Trey" (i.e., three) because his father had the "II" suffix.[6][7] The family lived in the Sand Point area of Seattle in a home that was damaged by a rare tornado when Gates was seven years old.[8]
+
+When Gates was young his parents wanted him to pursue a career in law.[9] During his childhood, his family regularly attended a church of the Congregational Christian Churches, a Protestant Reformed denomination.[10][11][12] Gates was small for his age and was bullied as a child.[7] The family encouraged competition; one visitor reported that "it didn't matter whether it was hearts or pickleball or swimming to the dock; there was always a reward for winning and there was always a penalty for losing".[13]
+
+
+Gates (right) with Paul Allen seated at Teletype Model 33 ASR terminals in Lakeside School, 1970
+At age 13, he enrolled in the private Lakeside prep school,[14][15] where he wrote his first software program.[16] When he was in eighth grade, the Mothers' Club at the school used proceeds from Lakeside School's rummage sale to buy a Teletype Model 33 ASR terminal and a block of computer time on a General Electric (GE) computer for the students.[17] Gates took an interest in programming the GE system in BASIC, and he was excused from math classes to pursue his interest. He wrote his first computer program on this machine, an implementation of tic-tac-toe that allowed users to play games against the computer. Gates was fascinated by the machine and how it would always execute software code perfectly.[18] After the Mothers Club donation was exhausted, Gates and other students sought time on systems including DEC PDP minicomputers. One of these systems was a PDP-10 belonging to Computer Center Corporation (CCC) which banned Gates, Paul Allen, Ric Weiland, and Gates's best friend and first business partner Kent Evans for the summer after it caught them exploiting bugs in the operating system to obtain free computer time.[19][7]
+
+The four students formed the Lakeside Programmers Club to make money.[7] At the end of the ban, they offered to find bugs in CCC's software in exchange for extra computer time. Rather than using the system remotely via Teletype, Gates went to CCC's offices and studied source code for various programs that ran on the system, including Fortran, Lisp, and machine language. The arrangement with CCC continued until 1970 when the company went out of business. The following year, a Lakeside teacher enlisted Gates and Evans to automate the school's class-scheduling system, providing them computer time and royalties in return. The duo worked diligently in order to have the program ready for their senior year. Towards the end of their junior year, Evans was killed in a mountain climbing accident, which Gates described as one of the saddest days of his life. He then turned to Allen who helped him finish the system for Lakeside.[7]
+
+At 17, Gates formed a venture with Allen called Traf-O-Data to make traffic counters based on the Intel 8008 processor.[20] In 1972, he served as a congressional page in the House of Representatives.[21][22] He was a national merit scholar when he graduated from Lakeside School in 1973.[23] He scored 1590 out of 1600 on the Scholastic Aptitude Tests (SAT) and enrolled at Harvard College in the autumn of 1973.[24][25] He did not stay at Harvard long enough to choose a concentration, but took mathematics (including Math 55) and graduate level computer science courses.[26] While at Harvard, he met fellow student and future Microsoft CEO Steve Ballmer. Gates left Harvard after two years while Ballmer stayed and graduated magna cum laude. Years later, Ballmer succeeded Gates as Microsoft's CEO and maintained that position from 2000 until his resignation in 2014.[27][28]
+
+Gates devised an algorithm for pancake sorting as a solution to one of a series of unsolved problems[29] presented in a combinatorics class by professor Harry Lewis. His solution held the record as the fastest version for over 30 years, and its successor is faster by only 2%.[29][30] His solution was formalized and published in collaboration with Harvard computer scientist Christos Papadimitriou.[31]
+
+Gates remained in contact with Paul Allen and joined him at Honeywell during the summer of 1974.[32] In 1975, the MITS Altair 8800 was released based on the Intel 8080 CPU, and Gates and Allen saw the opportunity to start their own computer software company.[33] Gates dropped out of Harvard that same year. His parents were supportive of him after seeing how much he wanted to start his own company.[34] He explained his decision to leave Harvard: "if things hadn't worked out, I could always go back to school. I was officially on leave."[35]
+
+Microsoft
+Further information: History of Microsoft and Microsoft § History
+BASIC
+
+MITS Altair 8800 Computer with 8-inch (200 mm) floppy disk system whose first programming language was Microsoft's founding product, Altair BASIC
+Gates read the January 1975 issue of Popular Electronics which demonstrated the Altair 8800, and contacted Micro Instrumentation and Telemetry Systems (MITS) to inform them that he and others were working on a BASIC interpreter for the platform.[36] In reality, Gates and Allen did not have an Altair and had not written code for it; they merely wanted to gauge MITS's interest. MITS president Ed Roberts agreed to meet them for a demonstration, and over the course of a few weeks they developed an Altair emulator that ran on a minicomputer, and then the BASIC interpreter. The demonstration was held at MITS's offices in Albuquerque, New Mexico; it was a success and resulted in a deal with MITS to distribute the interpreter as Altair BASIC. MITS hired Allen,[37] and Gates took a leave of absence from Harvard to work with him at MITS in November 1975. Allen named their partnership "Micro-Soft", a combination of "microcomputer" and "software", and their first office was in Albuquerque. The first employee Gates and Allen hired was their high school collaborator Ric Weiland.[37] They dropped the hyphen within a year and officially registered the trade name "Microsoft" with the Secretary of the State of New Mexico on November 26, 1976.[37] Gates never returned to Harvard to complete his studies.
+
+Microsoft's Altair BASIC was popular with computer hobbyists, but Gates discovered that a pre-market copy had leaked out and was being widely copied and distributed. In February 1976, he wrote An Open Letter to Hobbyists in the MITS newsletter in which he asserted that more than 90% of the users of Microsoft Altair BASIC had not paid Microsoft for it and the Altair "hobby market" was in danger of eliminating the incentive for any professional developers to produce, distribute, and maintain high-quality software.[38] This letter was unpopular with many computer hobbyists, but Gates persisted in his belief that software developers should be able to demand payment. Microsoft became independent of MITS in late 1976, and it continued to develop programming language software for various systems.[37] The company moved from Albuquerque to Bellevue, Washington on January 1, 1979.[36]
+
+Gates said he personally reviewed and often rewrote every line of code that the company produced in its first five years. As the company grew, he transitioned into a manager role, then an executive.[39] DONKEY.BAS, is a computer game written in 1981 and included with early versions of the PC DOS operating system distributed with the original IBM PC. It is a driving game in which the player must avoid hitting donkeys. The game was written by Gates and Neil Konzen.[40][41]
+
+IBM partnership
+IBM, the leading supplier of computer equipment to commercial enterprises at the time, approached Microsoft in July 1980 concerning software for its upcoming personal computer, the IBM PC,[42] after Gates's mother mentioned Microsoft to John Opel, IBM's then CEO.[43] IBM first proposed that Microsoft write the BASIC interpreter. IBM's representatives also mentioned that they needed an operating system, and Gates referred them to Digital Research (DRI), makers of the widely used CP/M operating system.[44] IBM's discussions with Digital Research went poorly and they did not reach a licensing agreement. IBM representative Jack Sams mentioned the licensing difficulties during a subsequent meeting with Gates and asked if Microsoft could provide an operating system. A few weeks later, Gates and Allen proposed using 86-DOS, an operating system similar to CP/M, that Tim Paterson of Seattle Computer Products (SCP) had made for hardware similar to the PC.[45] Microsoft made a deal with SCP to be the exclusive licensing agent of 86-DOS, and later the full owner. Microsoft employed Paterson to adapt the operating system for the PC[46] and delivered it to IBM as PC DOS for a one-time fee of $50,000.[47]
+
+The contract itself only earned Microsoft a relatively small fee. It was the prestige brought to Microsoft by IBM's adoption of their operating system that would be the origin of Microsoft's transformation from a small business to the leading software company in the world. Gates had not offered to transfer the copyright on the operating system to IBM because he believed that other personal computer makers would clone IBM's PC hardware.[47] They did, making the IBM-compatible PC, running DOS, a de facto standard. The sales of MS-DOS (the version of DOS sold to customers other than IBM) made Microsoft a major player in the industry.[48] The press quickly identified Microsoft as being very influential on the IBM PC. PC Magazine asked if Gates was "the man behind the machine?".[42]
