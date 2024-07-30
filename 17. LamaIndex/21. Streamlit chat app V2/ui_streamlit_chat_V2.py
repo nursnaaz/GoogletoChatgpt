@@ -6,7 +6,7 @@ from llama_index.llms.openai import OpenAI
 
 st.title("Ask LlamaIndex")
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "sk-**************"
 
 @st.cache_resource(show_spinner=False)
 def query_response(prompt):
