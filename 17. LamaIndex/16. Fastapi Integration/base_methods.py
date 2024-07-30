@@ -2,7 +2,7 @@ from llama_index.core import SimpleDirectoryReader, VectorStoreIndex
 from llama_index.core import StorageContext, load_index_from_storage
 import os
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "sk-*************"
 index = None
 
 def initialize_index():
